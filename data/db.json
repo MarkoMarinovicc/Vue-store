@@ -1,0 +1,77 @@
+{
+  "cart": [
+    {
+      "id": "4113",
+      "name": "Backpack",
+      "price": 60,
+      "description": "Durable backpack for daily use",
+      "image": "",
+      "quantity": 1
+    }
+  ],
+  "merch": [
+    {
+      "id": "1",
+      "name": "T-shirt",
+      "price": 20,
+      "description": "High-quality cotton T-shirt",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Hoodie",
+      "price": 45,
+      "description": "Cozy and warm hoodie",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "Cap",
+      "price": 15,
+      "description": "Stylish cap with logo",
+      "image": ""
+    },
+    {
+      "id": "4",
+      "name": "Mug",
+      "price": 10,
+      "description": "Ceramic mug with logo",
+      "image": ""
+    },
+    {
+      "id": "5",
+      "name": "Sticker Pack",
+      "price": 5,
+      "description": "Pack of 5 vinyl stickers",
+      "image": ""
+    },
+    {
+      "id": "6",
+      "name": "Backpack",
+      "price": 60,
+      "description": "Durable backpack for daily use",
+      "image": ""
+    },
+    {
+      "id": "7",
+      "name": "Beanie",
+      "price": 18,
+      "description": "Warm knit beanie for winter",
+      "image": ""
+    },
+    {
+      "id": "8",
+      "name": "Notebook",
+      "price": 12,
+      "description": "Lined notebook for notes and sketches",
+      "image": ""
+    },
+    {
+      "id": "9",
+      "name": "Water Bottle",
+      "price": 20,
+      "description": "Stainless steel water bottle",
+      "image": ""
+    }
+  ]
+}
